@@ -60,7 +60,4 @@ The second config file, `.chef/knife.rb` is a repository specific configuration 
 
 http://docs.opscode.com/knife.html
 
-Next Steps
-==========
 
-Read the README file in each of the subdirectories for more information about what goes in those directories.
